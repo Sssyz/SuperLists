@@ -6,3 +6,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+db.sqlits3
+geckodriver.log
+__pycache__
+*.pyc
